@@ -20,7 +20,7 @@ WORKDIR /app
 
 # ========= CONFIG =========
 # - derper args
-ENV DERP_HOST=180.76.195.46
+ENV DERP_HOST=127.0.0.1
 ENV DERP_CERTS=/app/certs/
 ENV DERP_STUN true
 ENV DERP_VERIFY_CLIENTS false
