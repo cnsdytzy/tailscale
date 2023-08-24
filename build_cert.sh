@@ -14,7 +14,7 @@ x509_extensions = v3_req
 prompt = no
 
 [req_distinguished_name]
-countryName = XX
+countryName = CN
 stateOrProvinceName = N/A
 localityName = N/A
 organizationName = Self-signed certificate
